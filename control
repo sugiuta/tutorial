@@ -1,0 +1,10 @@
+Package: com.sugi.test
+Name: test
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: If you can see this message, sugi has forgotten the description.
+Maintainer: sugi
+Author: sugi
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/test.bundle/icon@2x.png
