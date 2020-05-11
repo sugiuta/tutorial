@@ -5,8 +5,6 @@
 	<key>items</key>
 	<array>
 		<dict>
-			<key>action</key>
-			<string>contactMethod</string>
 			<key>cellClass</key>
 			<string>HBTwitterCell</string>
 			<key>label</key>
