@@ -1,1 +1,2 @@
-# Tweak tutorial(theos).
+#Tweak作成(Dockの透明度変更)
+Tweakの作成方法を初心者向けに現在執筆中です...。
